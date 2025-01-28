@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+sudo mkdir /var/run/text_adventure_game
+sudo chown www-data: /var/run/text_adventure_game
+sudo chmod 776 /var/run/text_adventure_game

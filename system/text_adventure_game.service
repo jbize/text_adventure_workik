@@ -1,0 +1,17 @@
+# Create symbolic link to /etc/systemd/system/
+
+[Unit]
+Description=Gunicorn instance to serve peak Flask app
+After=network.target
+
+[Service]
+User=john
+Group=www-data
+#Group=nogroup
+WorkingDirectory=/home/john/git/text_adventure_workik
+Environment="PATH=/home/john/git/text_adventure_workik
+ExecStart=gunicorn --workers 3 --bind unix:/var/run/text_adventure_game/text_adventure_game.sock -m 007 wsgi:app
+#ExecStart=gunicorn --workers 3 --bind 0.0.0.0:8000 -m 007 wsgi:app
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,23 @@
+{
+    "name": "Behind the house",
+    "abbrev": "behind_house",
+    "description": "You are behind an old house but there is not much to see here.",
+    "text_color": "red",
+    "background_image": "backyard.jpg",
+    "audio_file": "chirping_birds.mp3",
+    "options": [
+        {
+            "text": "Enter the house through the window",
+            "abbrev": "house"
+        },
+        {
+            "text": "Wait a while",
+            "abbrev": "behind_house"
+        },
+        {
+            "text": "Teleport to the front of house",
+            "abbrev": "front_of_house"
+        }
+    ]
+}
+

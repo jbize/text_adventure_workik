@@ -1,0 +1,11 @@
+{
+    "name": "You Did It!",
+    "abbrev": "success",
+    "description": "Congratulations! You have succeeded in your quest.",
+    "text_color": "#00FF00",
+    "background_image": "background.jpg",
+    "audio_file": "background_audio.mp3",
+    "options": [
+        {"text": "Start Over", "abbrev": "begin"}
+    ]
+}

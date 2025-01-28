@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="text-center" style="color: {{ scene['text_color'] }};">
+    <h1>{{ scene['name'] }}</h1>
+    <p>{{ scene['description'] }}</p>
+    <audio autoplay>
+        <source src="{{ url_for('static', filename='audio/' + scene['audio_file']) }}" type="audio/mpeg">
+    </audio>
+    <div>
+        {% for option in scene['options'] %}
+        <form method="POST" action="{{ url_for('choose') }}">
+            <button type="submit" class="btn btn-primary" name="next_scene" value="{{ option['abbrev'] }}">{{ option['text'] }}</button>
+        </form>
+        {% endfor %}
+    </div>
+</div>
+<style>
+    body {
+        background-image: url('{{ url_for('static', filename='images/' + scene['background_image']) }}');
+        background-color: #cccccc; /* Used if the image is unavailable */
+        background-position: center; /* Center the image */
+        background-repeat: no-repeat; /* Do not repeat the image */
+        background-size: cover; /* Resize the background image to cover the entire container */
+        height: 600px; /* You must set a specified height */
+    }
+</style>
+{% endblock %}

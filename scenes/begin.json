@@ -1,0 +1,19 @@
+{
+    "name": "Your Adventure Begins",
+    "abbrev": "begin",
+    "description": "You are walking along a rural dirt road. In the distance you see an old house. Looking around, you see a shiny object in the ditch.",
+    "text_color": "#FF0000",
+    "background_image": "country_road.jpg",
+    "audio_file": "piano-country-music.mp3",
+    "options": [
+        {
+            "text": "Approach the house",
+            "abbrev": "front_of_house"
+        },
+        {
+            "text": "Pick up the object", 
+            "abbrev": "death"
+        }
+    ]
+}
+

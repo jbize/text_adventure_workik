@@ -1,0 +1,11 @@
+{
+    "name": "You Died",
+    "abbrev": "death",
+    "description": "Alas! Your journey ends here.",
+    "text_color": "#FF0000",
+    "background_image": "background.jpg",
+    "audio_file": "death.mp3",
+    "options": [
+        {"text": "Try Again", "abbrev": "begin"}
+    ]
+}

@@ -1,0 +1,47 @@
+https://workik.com/ai-code-writer
+
+Write complete code for a text-based adventure game using Python Flask and Bootstrap5 base on the following specifications:
+
+Project Structure:
+    game.py: Main Flask application file.
+    templates/: Folder containing HTML templates.
+    static/: Folder containing static files like CSS, JavaScript, images, and audio files.
+    scenes/: Folder containing scene files.
+
+Bootstrap5 for Responsiveness:
+    Use latest Bootstrap 5 classes to ensure all rendering is responsive on different screen sizes.
+
+Flask Application:
+    Set up a Flask application with routes for each scene.
+    Use Flask templates to render scenes dynamically.
+    Implement exception handling for robustness.
+    Read each scene file as needed.
+    Play each scene audio file automatically
+    Each scene background covers the entire screen
+    Present each scene option as a button.
+    Add a nav title bar with a link back to "/"
+
+Game Logic:
+    Keep track of previous choices and maintain a single-session experience.
+    Implement multiple endings based on the choices made by the player.
+    Incorporate puzzle elements or challenges within the scenes.
+
+Scene Files:
+    Each scene will be a JSON file containing:
+        scene name, 
+        scene abbreviated name: lower case, "_" word separation, 
+        scene description, 
+        scene description text color,
+        scene background image, 
+        scene audio file, and 
+        list of options:
+        randomly create 2 to 4 options with rext and abbreviated scene name
+    Each scene file name will match the scene abbreviated name.
+    Create a begin scene.
+    Create a success end scene.
+    Create a You died." end scene.
+    Create 8 actual game adventure scenes.
+
+Multimedia Elements:
+    Include background images, background audio, and sound effects to enhance the user experience.
+
