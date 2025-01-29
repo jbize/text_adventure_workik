@@ -3,7 +3,7 @@
 {% block content %}
 <div class="text-center" style="color: {{ scene['text_color'] }};">
     <h1>{{ scene['name'] }}</h1>
-    <p>{{ scene['description'] }}</p>
+    <p  class="highlighted">{{ scene['description'] }}</p>
     <audio autoplay>
         <source src="{{ url_for('static', filename='audio/' + scene['audio_file']) }}" type="audio/mpeg">
         <!-- fallback for iPhone -->
@@ -28,5 +28,8 @@
         background-size: cover; /* Resize the background image to cover the entire container */
         height: 600px; /* You must set a specified height */
     }
+.highlighted {
+    background-color: rgba(0,0,0,.5);
+}
 </style>
 {% endblock %}
