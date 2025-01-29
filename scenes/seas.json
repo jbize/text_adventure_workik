@@ -1,0 +1,14 @@
+{
+    "name": "Lost at Sea",
+    "abbrev": "seas",
+    "description": "Drifting aimlessly in the doldrums, you find yourself lost at sea. The still waters stretch infinitely around you, with no sign of rescue. As days turn into weeks, hope wanes, and you realize that a breeze to steer you to safety may never come. The vast, unforgiving ocean slowly claims you.",
+    "text_color": "#ffffff",
+    "background_image": "seas.png",
+    "audio_file": "seas.mp3",
+    "options": [
+        {
+            "text": "Hope for a breeze",
+            "abbrev": "death"
+        }
+    ]
+}

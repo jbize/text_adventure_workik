@@ -1,0 +1,18 @@
+{
+    "name": "Explore Your New Realm",
+    "abbrev": "explorerealm",
+    "description": "As you step into your newly acquired realm, a sense of awe takes over. The landscape is vast and varied, with towering mountains, rolling meadows, and hidden wonders waiting to be discovered. Here, you will forge new paths and uncover the mysteries that lie within.",
+    "text_color": "#ffffff",
+    "background_image": "explorerealm.png",
+    "audio_file": "explorerealm.mp3",
+    "options": [
+        {
+            "text": "Venture into the mountains",
+            "abbrev": "mountains"
+        },
+        {
+            "text": "Explore the meadows",
+            "abbrev": "meadows"
+        }
+    ]
+}

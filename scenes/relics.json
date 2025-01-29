@@ -1,0 +1,14 @@
+{
+    "name": "Cursed Relics",
+    "abbrev": "relics",
+    "description": "You sit down and study the fascinating ancient artifacts, becoming completely immersed in them. A strange force seems to take over your body and mind, compelling you to continue studying indefinitely. The grip of the relics ensnares you, leading to an inevitable demise.",
+    "text_color": "#ffffff",
+    "background_image": "relics.png",
+    "audio_file": "relics.mp3",
+    "options": [
+        {
+            "text": "Continue studying",
+            "abbrev": "death"
+        }
+    ]
+}

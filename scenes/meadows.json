@@ -1,0 +1,14 @@
+{
+    "name": "Cliff in the Meadows",
+    "abbrev": "meadows",
+    "description": "You have realized too late that the beautiful meadows were leading to a cliff. As you plummet towards the ground, you reevaluate your life choices in those final moments. The only option is to continue falling, which leads to a tragic demise.",
+    "text_color": "#ffffff",
+    "background_image": "meadows.png",
+    "audio_file": "meadows.mp3",
+    "options": [
+        {
+            "text": "Continue falling",
+            "abbrev": "death"
+        }
+    ]
+}

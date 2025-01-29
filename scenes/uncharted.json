@@ -1,0 +1,14 @@
+{
+    "name": "Lost in Uncharted Lands",
+    "abbrev": "uncharted",
+    "description": "You venture into the uncharted lands, but as you wander deeper, it becomes clear that you are hopelessly lost. Despite your best efforts, there seems to be no way out, and the harsh environment slowly takes its toll on you.",
+    "text_color": "#ffffff",
+    "background_image": "uncharted.png",
+    "audio_file": "uncharted.mp3",
+    "options": [
+        {
+            "text": "Continue",
+            "abbrev": "death"
+        }
+    ]
+}

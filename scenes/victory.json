@@ -1,0 +1,18 @@
+{
+    "name": "Guardian Defeat",
+    "abbrev": "victory",
+    "description": "You've successfully defeated the guardians! The Phoenix Gem now lies unprotected, awaiting your touch. You feel a surge of power and accomplishment.",
+    "text_color": "#32cd32",
+    "background_image": "victory.png",
+    "audio_file": "victory.mp3",
+    "options": [
+        {
+            "text": "Take the Phoenix Gem",
+            "abbrev": "take"
+        },
+        {
+            "text": "Remain in reverence",
+            "abbrev": "altar"
+        }
+    ]
+}

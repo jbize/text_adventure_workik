@@ -1,0 +1,18 @@
+{
+    "name": "Reflect on Your Journey",
+    "abbrev": "reflect",
+    "description": "As you pause to reflect on your journey, memories of your adventures so far come flooding back. You think about the challenges you've faced, the allies you've made, and the lessons you've learned. This moment of introspection fills you with determination to continue your quest.",
+    "text_color": "#ffffff",
+    "background_image": "reflect.png",
+    "audio_file": "reflect.mp3",
+    "options": [
+        {
+            "text": "Resume your journey",
+            "abbrev": "resume"
+        },
+        {
+            "text": "Take a moment to rest",
+            "abbrev": "rest"
+        }
+    ]
+}

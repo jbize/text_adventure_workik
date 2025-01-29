@@ -1,0 +1,18 @@
+{
+    "name": "Secret Sanctuary",
+    "abbrev": "sanctuary",
+    "description": "You step into the sanctuary, finding it bathed in soft golden light. Statues of ancient deities line the walls, and a tranquil pool lies at the center. The Phoenix Gem's power has led you here.",
+    "text_color": "#ffd700",
+    "background_image": "sanctuary.png",
+    "audio_file": "sanctuary.mp3",
+    "options": [
+        {
+            "text": "Inspect the pool",
+            "abbrev": "pool"
+        },
+        {
+            "text": "Leave the sanctuary",
+            "abbrev": "ritual"
+        }
+    ]
+}

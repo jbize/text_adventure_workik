@@ -1,19 +1,18 @@
 {
-    "name": "Your Adventure Begins",
+    "name": "Beginning of Your Adventure",
     "abbrev": "begin",
-    "description": "You are walking along a rural dirt road. In the distance you see an old house. Looking around, you see a shiny object in the ditch.",
-    "text_color": "#FF0000",
-    "background_image": "country_road.jpg",
-    "audio_file": "piano-country-music.mp3",
+    "description": "Welcome to the adventure! You've decided to embark on a quest through the mystical forests of Eldoria, chasing after the legendary Phoenix Gem.",
+    "text_color": "#ffffff",
+    "background_image": "begin.png",
+    "audio_file": "begin.mp3",
     "options": [
         {
-            "text": "Approach the house",
-            "abbrev": "front_of_house"
+            "text": "Go to the forest",
+            "abbrev": "forest"
         },
         {
-            "text": "Pick up the object", 
-            "abbrev": "death"
+            "text": "Explore the cave",
+            "abbrev": "cave"
         }
     ]
 }
-

@@ -1,0 +1,18 @@
+{
+    "name": "Secret Chamber",
+    "abbrev": "passage",
+    "description": "Following the hidden passage, you discover a secret chamber. The walls are adorned with glowing runes, and in the center lies a stone pedestal with an ancient artifact. An electric energy pulses in the air.",
+    "text_color": "#ffff00",
+    "background_image": "passage.png",
+    "audio_file": "passage.mp3",
+    "options": [
+        {
+            "text": "Take the artifact",
+            "abbrev": "artifact"
+        },
+        {
+            "text": "Leave the chamber",
+            "abbrev": "cave"
+        }
+    ]
+}

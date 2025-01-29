@@ -1,0 +1,18 @@
+{
+    "name": "Power Unleashed",
+    "abbrev": "take",
+    "description": "As you grasp the Phoenix Gem, a surge of power flows through you. The gem glows brightly, casting a radiant light across the chamber. You've harnessed the legendary power.",
+    "text_color": "#ff8c00",
+    "background_image": "take.png",
+    "audio_file": "take.mp3",
+    "options": [
+        {
+            "text": "Use the gem's power",
+            "abbrev": "gemuse"
+        },
+        {
+            "text": "Return to the cavern entrance",
+            "abbrev": "cave"
+        }
+    ]
+}

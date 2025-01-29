@@ -1,0 +1,14 @@
+{
+    "name": "Plan Your Next Steps",
+    "abbrev": "plan",
+    "description": "After gathering your thoughts and reflecting on your journey, you are ready to plan your next steps. With a strategic mind and a clear vision, you set forth to conquer new challenges.",
+    "text_color": "#ffffff",
+    "background_image": "plan.png",
+    "audio_file": "plan.mp3",
+    "options": [
+        {
+            "text": "Start over",
+            "abbrev": "begin"
+        }
+    ]
+}

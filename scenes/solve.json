@@ -1,0 +1,18 @@
+{
+    "name": "Ancient Wisdom",
+    "abbrev": "solve",
+    "description": "You solve the intricate puzzle of the glyphs. As the last piece falls into place, a burst of light reveals hidden wisdom. You gain profound insights into the secrets of Eldoria.",
+    "text_color": "#ba55d3",
+    "background_image": "solve.png",
+    "audio_file": "solve.mp3",
+    "options": [
+        {
+            "text": "Use the newfound knowledge",
+            "abbrev": "useknowledge"
+        },
+        {
+            "text": "Return to Mystic Island",
+            "abbrev": "distantisland"
+        }
+    ]
+}

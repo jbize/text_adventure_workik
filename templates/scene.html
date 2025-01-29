@@ -6,6 +6,10 @@
     <p>{{ scene['description'] }}</p>
     <audio autoplay>
         <source src="{{ url_for('static', filename='audio/' + scene['audio_file']) }}" type="audio/mpeg">
+        <!-- fallback for iPhone -->
+        <script type="text/javascript">
+            QT_WriteOBJECT("{{ url_for('static', filename='audio/' + scene['audio_file']) }}", '0', '0', '', 'AUTOPLAY', 'True' );
+        </script>
     </audio>
     <div>
         {% for option in scene['options'] %}

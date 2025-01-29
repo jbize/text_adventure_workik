@@ -1,0 +1,18 @@
+{
+    "name": "Enchanted Portal",
+    "abbrev": "ponder",
+    "description": "As you approach the pond, you notice a shimmering portal hidden beneath its surface. A sense of curiosity draws you in, as you step through the portal to a magical realm.",
+    "text_color": "#7fffd4",
+    "background_image": "ponder.png",
+    "audio_file": "ponder.mp3",
+    "options": [
+        {
+            "text": "Step into the magical realm",
+            "abbrev": "realm"
+        },
+        {
+            "text": "Return to the hidden glade",
+            "abbrev": "leftpath"
+        }
+    ]
+}

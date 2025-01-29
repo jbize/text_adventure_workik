@@ -1,0 +1,14 @@
+{
+    "name": "Resume Your Journey",
+    "abbrev": "resume",
+    "description": "After taking a moment to rest and gather your thoughts, you are ready to resume your journey with renewed energy and determination. The adventure continues!",
+    "text_color": "#ffffff",
+    "background_image": "resume.png",
+    "audio_file": "resume.mp3",
+    "options": [
+        {
+            "text": "Start over",
+            "abbrev": "begin"
+        }
+    ]
+}

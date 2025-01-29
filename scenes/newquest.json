@@ -1,0 +1,18 @@
+{
+    "name": "Embark on a New Quest",
+    "abbrev": "newquest",
+    "description": "Fueled by a relentless desire for discovery and adventure, you embark on a new quest. The path ahead is unknown, filled with mysteries, challenges, and the promise of untold treasures. With courage and determination, you set forth into the great unknown.",
+    "text_color": "#ffffff",
+    "background_image": "newquest.png",
+    "audio_file": "newquest.mp3",
+    "options": [
+        {
+            "text": "Map the uncharted lands",
+            "abbrev": "uncharted"
+        },
+        {
+            "text": "Seek out ancient relics",
+            "abbrev": "relics"
+        }
+    ]
+}

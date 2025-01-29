@@ -1,0 +1,18 @@
+{
+    "name": "Ancient Library",
+    "abbrev": "scroll",
+    "description": "Reading the mysterious scroll, you uncover the secrets of an arcane ritual. The words glow with power and your surroundings begin to shift and change, revealing hidden truths.",
+    "text_color": "#8b0000",
+    "background_image": "scroll.png",
+    "audio_file": "scroll.mp",
+    "options": [
+        {
+            "text": "Perform the ritual",
+            "abbrev": "ritual"
+        },
+        {
+            "text": "Leave the library",
+            "abbrev": "righttrail"
+        }
+    ]
+}

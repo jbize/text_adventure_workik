@@ -1,0 +1,18 @@
+{
+    "name": "Arcane Ceremony",
+    "abbrev": "ritual",
+    "description": "You decide to perform the ritual described in the scroll. Ancient runes glow around you as the air hums with magical energy. Suddenly, a portal opens, revealing a path to a hidden sanctuary.",
+    "text_color": "#8b008b",
+    "background_image": "ritual.png",
+    "audio_file": "ritual.mp3",
+    "options": [
+        {
+            "text": "Enter the sanctuary",
+            "abbrev": "sanctuary"
+        },
+        {
+            "text": "Stop the ritual",
+            "abbrev": "righttrail"
+        }
+    ]
+}

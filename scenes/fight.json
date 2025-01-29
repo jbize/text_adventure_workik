@@ -1,0 +1,18 @@
+{
+    "name": "Guardian Battle",
+    "abbrev": "fight",
+    "description": "The guardians awaken and charge at you with ancient weapons. You prepare to defend yourself using both strategy and mystical power. The cave echoes with the clash of battle.",
+    "text_color": "#ff6347",
+    "background_image": "fight.png",
+    "audio_file": "fight.mp3",
+    "options": [
+        {
+            "text": "Defeat the guardians",
+            "abbrev": "victory"
+        },
+        {
+            "text": "Retreat to the cave entrance",
+            "abbrev": "cave"
+        }
+    ]
+}

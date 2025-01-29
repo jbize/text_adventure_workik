@@ -1,11 +1,14 @@
 {
-    "name": "You Died",
+    "name": "Horrible Demise",
     "abbrev": "death",
-    "description": "Alas! Your journey ends here.",
-    "text_color": "#FF0000",
-    "background_image": "background.jpg",
+    "description": "You have met a horrible demise. The journey has come to a tragic end, but every end is a new beginning. With the lessons learned from this adventure, you can start over and forge a new path.",
+    "text_color": "#ffffff",
+    "background_image": "death.png",
     "audio_file": "death.mp3",
     "options": [
-        {"text": "Try Again", "abbrev": "begin"}
+        {
+            "text": "Start over",
+            "abbrev": "begin"
+        }
     ]
 }

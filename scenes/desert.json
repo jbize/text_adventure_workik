@@ -1,0 +1,14 @@
+{
+    "name": "Lost in the Desert",
+    "abbrev": "desert",
+    "description": "You find yourself lost and wandering in the relentless desert. The sun beats down mercilessly, and the dry, desolate landscape offers no respite. Desperately searching for water, you realize that your efforts are in vain, and the harsh conditions slowly overwhelm you.",
+    "text_color": "#ffffff",
+    "background_image": "desert.png",
+    "audio_file": "desert.mp3",
+    "options": [
+        {
+            "text": "Find water",
+            "abbrev": "death"
+        }
+    ]
+}

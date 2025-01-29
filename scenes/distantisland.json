@@ -1,0 +1,18 @@
+{
+    "name": "Mystic Island",
+    "abbrev": "distantisland",
+    "description": "Reaching the distant island, you find a serene place untouched by time. Strange glyphs glow on the ground, and a sense of peace envelops you. This might be the realm's heart.",
+    "text_color": "#48d1cc",
+    "background_image": "distantisland.png",
+    "audio_file": "distantisland.mp",
+    "options": [
+        {
+            "text": "Investigate the glyphs",
+            "abbrev": "glyphs"
+        },
+        {
+            "text": "Return to the floating islands",
+            "abbrev": "islands"
+        }
+    ]
+}

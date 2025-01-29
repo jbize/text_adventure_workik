@@ -1,0 +1,18 @@
+{
+    "name": "Rest and Reflect",
+    "abbrev": "rest",
+    "description": "After many trials and tribulations, you find a quiet spot to rest and reflect on your journey. The peaceful surroundings allow you to gather your thoughts, recharge your strength, and gain insight for the path ahead. This moment of calm is essential before you continue your quest.",
+    "text_color": "#ffffff",
+    "background_image": "rest.png",
+    "audio_file": "rest.mp3",
+    "options": [
+        {
+            "text": "Resume your journey",
+            "abbrev": "resume"
+        },
+        {
+            "text": "Plan your next steps",
+            "abbrev": "plan"
+        }
+    ]
+}

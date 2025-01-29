@@ -1,0 +1,14 @@
+{
+    "name": "High in the Mountains",
+    "abbrev": "mountains",
+    "description": "As you climb high above the tree line, you spot a yeti in the distance. Hoping not to be seen, you remain very, very still. The tension is palpable, but the harsh mountain environment and the presence of the yeti ultimately lead to your demise.",
+    "text_color": "#ffffff",
+    "background_image": "mountains.png",
+    "audio_file": "mountains.mp3",
+    "options": [
+        {
+            "text": "Remain very still",
+            "abbrev": "death"
+        }
+    ]
+}

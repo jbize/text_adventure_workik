@@ -1,0 +1,18 @@
+{
+    "name": "Mystical Forest",
+    "abbrev": "forest",
+    "description": "You walk into the dense forest. The air is thick with the scent of pine and the distant call of strange creatures. Sunlight filters through the canopy, illuminating your path.",
+    "text_color": "#00ff00",
+    "background_image": "forest.png",
+    "audio_file": "forest.mp3",
+    "options": [
+        {
+            "text": "Take the left path",
+            "abbrev": "leftpath"
+        },
+        {
+            "text": "Follow the right trail",
+            "abbrev": "righttrail"
+        }
+    ]
+}
