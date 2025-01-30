@@ -2,7 +2,7 @@
     "name": "Glyph Enigma",
     "abbrev": "glyphs",
     "description": "You study the glowing glyphs on the mystic island. They seem to form a puzzle that reveals hidden knowledge. Solving this enigma could unlock ancient secrets.",
-    "text_color": "#ffa07a",
+    "text_color": "#ff4500",
     "background_image": "glyphs.png",
     "audio_file": "glyphs.mp3",
     "options": [

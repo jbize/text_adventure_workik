@@ -2,7 +2,7 @@
     "name": "Guardians' Lair",
     "abbrev": "artifact",
     "description": "Deeper within the cave, you discover the lair of ancient guardians. Stalactites hang from the ceiling, shimmering with magical energy. In the center, a sacred altar holds the Phoenix Gem.",
-    "text_color": "#ff69b4",
+    "text_color": "#ff7f50",
     "background_image": "artifact.png",
     "audio_file": "artifact.mp3",
     "options": [

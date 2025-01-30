@@ -2,7 +2,7 @@
     "name": "Cave Depths",
     "abbrev": "deeper",
     "description": "Venturing deeper into the cave, you find yourself in a vast chamber. The air is thick with the smell of minerals, and the darkness is almost palpable. Flickering shadows reveal hidden passageways.",
-    "text_color": "#808080",
+    "text_color": "#a9a9a9",
     "background_image": "deeper.png",
     "audio_file": "deeper.mp3",
     "options": [

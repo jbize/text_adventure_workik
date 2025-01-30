@@ -2,7 +2,7 @@
     "name": "Ancient Ruins",
     "abbrev": "righttrail",
     "description": "Following the right trail, you arrive at the remnants of an ancient civilization. Crumbling stone structures and overgrown vines hint at centuries of history. An eerie silence pervades the area.",
-    "text_color": "#663300",
+    "text_color": "#996633",
     "background_image": "righttrail.png",
     "audio_file": "righttrail.mp3",
     "options": [

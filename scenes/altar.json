@@ -2,7 +2,7 @@
     "name": "Phoenix Altar",
     "abbrev": "altar",
     "description": "You approach the altar and find the Phoenix Gem resting on a pedestal. The guardians stir, coming to life to defend the gem. A powerful energy crackles in the air.",
-    "text_color": "#ff4500",
+    "text_color": "#ff6347",
     "background_image": "altar.png",
     "audio_file": "altar.mp3",
     "options": [

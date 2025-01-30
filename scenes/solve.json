@@ -2,7 +2,7 @@
     "name": "Ancient Wisdom",
     "abbrev": "solve",
     "description": "You solve the intricate puzzle of the glyphs. As the last piece falls into place, a burst of light reveals hidden wisdom. You gain profound insights into the secrets of Eldoria.",
-    "text_color": "#ba55d3",
+    "text_color": "#dda0dd",
     "background_image": "solve.png",
     "audio_file": "solve.mp3",
     "options": [

@@ -2,7 +2,7 @@
     "name": "Sacred Waters",
     "abbrev": "pool",
     "description": "You approach the tranquil pool and peer into its depths. The water emanates a calming aura, and within its depths, you see visions of your journey and potential futures. It's a moment of reflection and clarity.",
-    "text_color": "#1e90ff",
+    "text_color": "#00bfff",
     "background_image": "pool.png",
     "audio_file": "pool.mp3",
     "options": [

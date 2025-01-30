@@ -2,7 +2,7 @@
     "name": "Master of Eldoria",
     "abbrev": "useknowledge",
     "description": "With the newfound knowledge from the glyphs, you reshape the realm of Eldoria. Magic flows through your veins as you masterfully manipulate the world's elements to create harmony and balance.",
-    "text_color": "#8a2be2",
+    "text_color": "#9370db",
     "background_image": "useknowledge.png",
     "audio_file": "useknowledge.mp3",
     "options": [

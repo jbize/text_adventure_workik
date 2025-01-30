@@ -2,7 +2,7 @@
     "name": "Enchanted Portal",
     "abbrev": "ponder",
     "description": "As you approach the pond, you notice a shimmering portal hidden beneath its surface. A sense of curiosity draws you in, as you step through the portal to a magical realm.",
-    "text_color": "#7fffd4",
+    "text_color": "#e0ffff",
     "background_image": "ponder.png",
     "audio_file": "ponder.mp3",
     "options": [

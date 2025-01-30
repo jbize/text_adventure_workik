@@ -2,7 +2,7 @@
     "name": "Hidden Glade",
     "abbrev": "leftpath",
     "description": "Taking the left path, you stumble upon a hidden glade where the trees part to reveal a crystal-clear pond. The water glows with an ethereal light, and the sound of gentle whispers beckons you closer.",
-    "text_color": "#87ceeb",
+    "text_color": "#b0e0e6",
     "background_image": "leftpath.png",
     "audio_file": "leftpath.mp3",
     "options": [

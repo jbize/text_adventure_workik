@@ -2,7 +2,7 @@
     "name": "Ancient Library",
     "abbrev": "ruins",
     "description": "Among the ruins, you discover an ancient library filled with dusty tomes and scrolls. The air is thick with knowledge and history. Shadows of past scholars seem to dance on the walls.",
-    "text_color": "#8b0000",
+    "text_color": "#dc143c",
     "background_image": "ruins.png",
     "audio_file": "ruins.mp3",
     "options": [

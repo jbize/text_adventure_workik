@@ -2,7 +2,7 @@
     "name": "Mysterious Cave",
     "abbrev": "cave",
     "description": "You step into the darkness of the cave. The air is cool and damp, with the sound of dripping water echoing in the distance. Your torchlight dances on the walls, revealing ancient carvings.",
-    "text_color": "#cccccc",
+    "text_color": "#e0e0e0",
     "background_image": "cave.png",
     "audio_file": "cave.mp3",
     "options": [
