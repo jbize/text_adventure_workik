@@ -3,7 +3,7 @@
 {% block content %}
 <div class="text-center" style="color: {{ scene['text_color'] }};">
     <h1>{{ scene['name'] }}</h1>
-    <p  class="highlighted">{{ scene['description'] }}</p>
+    <p class="highlighted">{{ scene['description'] }}</p>
     <audio autoplay>
         <source src="{{ url_for('static', filename='audio/' + scene['audio_file']) }}" type="audio/mpeg">
         <!-- fallback for iPhone -->
@@ -13,8 +13,8 @@
     </audio>
     <div>
         {% for option in scene['options'] %}
-        <form method="POST" action="{{ url_for('choose') }}">
-            <button type="submit" class="btn btn-primary" name="next_scene" value="{{ option['abbrev'] }}">{{ option['text'] }}</button>
+        <form method="POST" action="{{ url_for('show_scene', scene_name=option['abbrev']) }}">
+            <button type="submit" class="btn btn-custom" name="next_scene" value="{{ option['abbrev'] }}">{{ option['text'] }}</button>
         </form>
         {% endfor %}
     </div>
@@ -31,5 +31,17 @@
 .highlighted {
     background-color: rgba(0,0,0,.5);
 }
+.btn-custom {
+    background-image: url('/static/images/log_button.png');
+    background-color: #3C1F1F; /* Used if the image is unavailable */
+    background-size: cover;
+    color: white;
+    border: none;
+    margin-top:5px;
+}
+.btn-custom:hover {
+    opacity: 0.8;
+}
 </style>
 {% endblock %}
+
