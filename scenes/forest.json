@@ -13,6 +13,10 @@
         {
             "text": "Follow the right trail",
             "abbrev": "righttrail"
+        },
+        {
+            "text": "Return to the adventure start",
+            "abbrev": "begin"
         }
     ]
 }

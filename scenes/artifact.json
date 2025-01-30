@@ -13,6 +13,10 @@
         {
             "text": "Retreat back to the cave entrance",
             "abbrev": "cave"
+        },
+        {
+            "text": "Return to the hidden passage",
+            "abbrev": "passage"
         }
     ]
 }

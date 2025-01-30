@@ -13,6 +13,10 @@
         {
             "text": "Return to the cave entrance",
             "abbrev": "cave"
+        },
+        {
+            "text": "Return to the Guardians' Lair",
+            "abbrev": "artifact"
         }
     ]
 }

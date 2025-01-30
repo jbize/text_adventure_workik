@@ -13,6 +13,10 @@
         {
             "text": "Return to the forest entrance",
             "abbrev": "forest"
+        },
+        {
+            "text": "Return to the adventure start",
+            "abbrev": "begin"
         }
     ]
 }
