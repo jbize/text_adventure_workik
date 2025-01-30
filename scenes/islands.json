@@ -4,7 +4,7 @@
     "description": "You glide through the air, visiting each floating island. Strange, luminescent plants grow here, and fantastical creatures flit between the trees. A distant island seems to be calling you.",
     "text_color": "#7fffd4",
     "background_image": "islands.png",
-    "audio_file": "islands.mp",
+    "audio_file": "islands.mp3",
     "options": [
         {
             "text": "Visit the distant island",

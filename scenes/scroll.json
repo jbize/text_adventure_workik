@@ -4,7 +4,7 @@
     "description": "Reading the mysterious scroll, you uncover the secrets of an arcane ritual. The words glow with power and your surroundings begin to shift and change, revealing hidden truths.",
     "text_color": "#8b0000",
     "background_image": "scroll.png",
-    "audio_file": "scroll.mp",
+    "audio_file": "scroll.mp3",
     "options": [
         {
             "text": "Perform the ritual",
