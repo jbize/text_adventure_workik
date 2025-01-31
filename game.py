@@ -7,6 +7,7 @@ app.secret_key = 'your_secret_key'
 
 # Load scene data from JSON files
 def load_scene_data(scene_name):
+    # Load the scene data from the JSON file
     with open(f'scenes/{scene_name}.json') as f:
         return json.load(f)
 
