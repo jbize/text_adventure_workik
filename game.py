@@ -2,7 +2,6 @@
 from flask import Flask, render_template, redirect, url_for, session, request
 import json
 app = Flask(__name__)
-app.secret_key = 'your_secret_key'
 
 def load_scene_data(scene_name):
     """
